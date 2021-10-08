@@ -6,6 +6,6 @@ public class MyFirstProgram {
         System.out.println("Hey Java developer... Welcome to github!!!");
         System.out.println("Code pushed to remote!!!");
 
-        System.out.println("New line addded");
+        System.out.println("New line addded ");
     }
 }
